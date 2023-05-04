@@ -13,10 +13,11 @@ Rank Projects are described below. An overview is also provided at the end of th
 ### 0️⃣0️⃣ Rank 00
 ---
 
-#### 🟢 Libft (Solo Project - C) 
+#### 🟢 Libft (Solo Project - C)
 💻 ```Overview : An implemtation of the basic functions of the C standard library``` <br>
 📎 [add link there] <br>
 ✅ Validated with 115/100 (with bonus) <br>
+<br>
 
 ### 0️⃣1️⃣ Rank 01
 ---
@@ -35,6 +36,7 @@ Rank Projects are described below. An overview is also provided at the end of th
 💻 ```Overview : Install and setup a Debian OS in a VM``` <br>
 📎 [add link there] <br>
 ✅ Validated with 100/100 <br>
+<br>
 
 ### 0️⃣2️⃣ Rank 02
 ---
@@ -53,6 +55,7 @@ Rank Projects are described below. An overview is also provided at the end of th
 💻 ```Overview : A small 2D video game with a lightweight graphic libary``` <br>
 📎 [add link there] <br>
 ✅ Validated with 100/100 <br>
+<br>
 
 ### 0️⃣3️⃣ Rank 03
 ---
@@ -67,6 +70,7 @@ Rank Projects are described below. An overview is also provided at the end of th
 💻 ```Overview : A fully functionnal shell that handle pipes, redirections, builtins, command launching, and more...``` <br>
 📎 [add link there] <br>
 ✅ Validated with 101/100 (with bonus) <br>
+<br>
 
 ### 0️⃣4️⃣ Rank 04
 ---
@@ -86,6 +90,7 @@ Rank Projects are described below. An overview is also provided at the end of th
 💻 ```Overview : A 3D Game Engine using Ray Casting``` <br>
 📎 [add link there] <br>
 ✅ Validated with 110/100 (with bonus) <br>
+<br>
 
 ### 0️⃣5️⃣ Rank 05
 ---
@@ -105,6 +110,7 @@ Rank Projects are described below. An overview is also provided at the end of th
 💻 ```Overview : A fully functional Web Server that handles GET, POST and DELETE requests and supports CGI``` <br>
 📎 [add link there] <br>
 ✅ Validated with 100/100 <br>
+<br>
 
 
 ### 0️⃣6️⃣ Rank 06
@@ -115,6 +121,7 @@ Rank Projects are described below. An overview is also provided at the end of th
 💻 ```Overview : A dynamic website featuring a multiplayer pong, a chat, profiles and access to your personal stats``` <br>
 📎 [add link there] <br>
 🛫 Work In Progress <br>
+<br>
 
 ## 👨‍💻 Overview
 ---
