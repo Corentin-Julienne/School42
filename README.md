@@ -121,10 +121,8 @@ Rank Projects are described below.
 ### 0️⃣6️⃣ Rank 06
 ---
 
-
-#### 🟢 Ft_transcendance (Team Project (3 to 5 members) - Nest.js, React.js, PostgreSQL)
+#### 🟢 Ft_transcendance (Team Project (3 to 5 members) - Angular, NestJS, PostgeSQL, Tailwind CSS)
 💻 ```Overview : A dynamic website featuring a multiplayer pong, a chat, profiles and access to your personal stats``` <br>
-📎 [add link there] <br>
-🛫 Work In Progress <br>
+📎 [Transcendence](https://github.com/MaaxIT/transcendence) <br>
+✅ Validated with 100/100 <br>
 <br>
-
